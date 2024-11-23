@@ -10,7 +10,7 @@ The projects are designed to showcase my expertise in tools such as Excel, Power
   
 - **[Customer Churn Analysis](https://github.com/ShivakrishnaMacha/Bank-Churn-Analysis)**: Analyze customer churn behavior for a bank using Power BI. Created an interactive dashboard to identify key churn drivers and provide actionable insights for improving customer retention and minimizing churn rates.
 
-- **[Retail Store Analysis](https://app.powerbi.com/view?r=eyJrIjoiYjNiNGQ1NzgtMjMzNy00ZTI4LTkyM2MtODEwZWJjMTZkM2E2IiwidCI6IjZhYjJmZGI1LWNjOWUtNDJiMy04ZmI5LTA4ZWU1OGI5YzRhMSJ9)**: Conduct a retail store sales analysis using Power BI. Visualized sales trends, customer preferences, and financial performance to help optimize business strategies and improve profitability.
+- **[Retail Store Analysis](https://github.com/ShivakrishnaMacha/Retail-Store-Analysis/tree/main)**: Conduct a retail store sales analysis using Power BI. Visualized sales trends, customer preferences, and financial performance to help optimize business strategies and improve profitability.
  
 
 
