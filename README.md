@@ -6,10 +6,11 @@ The projects are designed to showcase my expertise in tools such as Excel, Power
 ## List Of Projects
 
 ### Power BI
-- **[Sales Insight](#)**: Provide insights from the historical sales data to the sales manager of the imaginary company using Power BI.
-- **[Customer Churn Analysis](#)**: Develop a hotel booking database using SQL and connect it to the Power BI to analyze & visualize the data.
-- **[Retail Store Analysis](#)**: Develop a hotel booking database using SQL and connect it to the Power BI to analyze & visualize the data.
+- **[Sales Insight](https://github.com/ShivakrishnaMacha/Sales-Insight)**: Provide insights from the historical sales data to the sales manager of the imaginary company using Power BI. Developed a live, interactive dashboard that helps the team make data-driven decisions to optimize sales performance.
+  
+- **[Customer Churn Analysis](https://github.com/ShivakrishnaMacha/Bank-Churn-Analysis)**: Analyze customer churn behavior for a bank using Power BI. Created an interactive dashboard to identify key churn drivers and provide actionable insights for improving customer retention and minimizing churn rates.
 
-- 
+- **[Retail Store Analysis](https://app.powerbi.com/view?r=eyJrIjoiYjNiNGQ1NzgtMjMzNy00ZTI4LTkyM2MtODEwZWJjMTZkM2E2IiwidCI6IjZhYjJmZGI1LWNjOWUtNDJiMy04ZmI5LTA4ZWU1OGI5YzRhMSJ9)**: Conduct a retail store sales analysis using Power BI. Visualized sales trends, customer preferences, and financial performance to help optimize business strategies and improve profitability.
+ 
 
 
