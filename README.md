@@ -14,6 +14,9 @@ The projects are designed to showcase my expertise in tools such as Excel, Power
 
 ### Tableau
 - **[Quarterly Census of Employment and Wages Analysis](https://github.com/ShivakrishnaMacha/Tableau-Project/tree/main)**: Conducted an in-depth analysis of employment and wage data from various industries and regions, based on the Quarterly Census of Employment and Wages dataset from the New York State Government's open data portal. The visualization aims to offer valuable insights into industry dynamics, labor market trends, and regional economic performance.
+
+### SQL
+- **[Netflix Movies and TV Shows Data Analysis using Sql](https://github.com/ShivakrishnaMacha/Netflix_Sql_Project)**: Extracted valuable insights from Netflix's movies and TV shows data using SQL. Addressed various business questions and delivered actionable findings to inform strategic decisions.
  
 
 
