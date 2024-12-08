@@ -17,6 +17,15 @@ The projects are designed to showcase my expertise in tools such as Excel, Power
 
 ### SQL
 - **[Netflix Movies and TV Shows Data Analysis using Sql](https://github.com/ShivakrishnaMacha/Netflix_Sql_Project)**: Extracted valuable insights from Netflix's movies and TV shows data using SQL. Addressed various business questions and delivered actionable findings to inform strategic decisions.
+
+- **[Amazon USA Sales Analysis](https://github.com/ShivakrishnaMacha/Amazon-USA-Sales-Analysis)**: Analyzed over 20,000 sales records from an Amazon-like e-commerce platform using PostgreSQL. Tackled complex SQL challenges, including revenue analysis, customer segmentation, and inventory management, to deliver actionable insights into customer behavior and product performance.
+
+
+
+
+
+
+
  
 
 
