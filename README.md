@@ -20,6 +20,8 @@ The projects are designed to showcase my expertise in tools such as Excel, Power
 
 - **[Amazon USA Sales Analysis](https://github.com/ShivakrishnaMacha/Amazon-USA-Sales-Analysis)**: Analyzed over 20,000 sales records from an Amazon-like e-commerce platform using PostgreSQL. Tackled complex SQL challenges, including revenue analysis, customer segmentation, and inventory management, to deliver actionable insights into customer behavior and product performance.
 
+-  **[Zomato Data Analysis](https://github.com/ShivakrishnaMacha/Zomato_SQL_Data_Analysis/tree/main)**: Analyzed Zomato's data to showcase my SQL problem-solving skills. This project involved designing and setting up the database, importing and cleaning the data, managing null values, and resolving real-world business challenges by writing and executing complex SQL queries.
+
 
 
 
