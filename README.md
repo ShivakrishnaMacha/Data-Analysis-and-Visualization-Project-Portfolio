@@ -11,6 +11,8 @@ The projects are designed to showcase my expertise in tools such as Excel, Power
 - **[Customer Churn Analysis](https://github.com/ShivakrishnaMacha/Bank-Churn-Analysis)**: Analyzed customer churn behavior for a bank using Power BI. Created an interactive dashboard to identify key churn drivers and provide actionable insights for improving customer retention and minimizing churn rates.
 
 - **[Retail Store Analysis](https://github.com/ShivakrishnaMacha/Retail-Store-Analysis/tree/main)**: Conducted a retail store sales analysis using Power BI. Visualized sales trends, customer preferences, and financial performance to help optimize business strategies and improve profitability.
+  
+- **[National Health Survey - Health Care Dashboard](https://github.com/ShivakrishnaMacha/Health_Care_Analysis)**: Designed an interactive Power BI dashboard to analyze healthcare data from the National Health Survey. Visualized key metrics such as chronic disease prevalence, health scheme coverage, hospitalization rates, and education levels, enabling policymakers and public health officials to identify trends and make informed decisions.
 
 ### Tableau
 - **[Quarterly Census of Employment and Wages Analysis](https://github.com/ShivakrishnaMacha/Tableau-Project/tree/main)**: Conducted an in-depth analysis of employment and wage data from various industries and regions, based on the Quarterly Census of Employment and Wages dataset from the New York State Government's open data portal. The visualization aims to offer valuable insights into industry dynamics, labor market trends, and regional economic performance.
