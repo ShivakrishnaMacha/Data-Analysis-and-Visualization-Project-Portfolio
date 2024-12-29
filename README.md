@@ -14,6 +14,8 @@ The projects are designed to showcase my expertise in tools such as Excel, Power
   
 - **[Health Care Analysis](https://github.com/ShivakrishnaMacha/Health_Care_Analysis)**: Designed an interactive Power BI dashboard to analyze healthcare data from the National Health Survey. Visualized key metrics such as chronic disease prevalence, health scheme coverage, hospitalization rates, and education levels, enabling policymakers and public health officials to identify trends and make informed decisions.
 
+- **[Election Data Analysis](https://github.com/ShivakrishnaMacha/Election-Data-Analysis)**: Developed an interactive Power BI dashboard to analyze voting patterns and election results across Indian states. Visualized key metrics such as state-wise voter turnout, party-wise vote shares, election wins/losses, and geographical voting trends, providing actionable insights for analysts, policymakers, and the public to understand electoral dynamics and identify trends.
+
 ### Tableau
 - **[Quarterly Census of Employment and Wages Analysis](https://github.com/ShivakrishnaMacha/Tableau-Project/tree/main)**: Conducted an in-depth analysis of employment and wage data from various industries and regions, based on the Quarterly Census of Employment and Wages dataset from the New York State Government's open data portal. The visualization aims to offer valuable insights into industry dynamics, labor market trends, and regional economic performance.
 
