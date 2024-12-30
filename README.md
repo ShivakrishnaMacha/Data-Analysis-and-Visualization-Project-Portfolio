@@ -1,6 +1,6 @@
 # Data Analysis And Visualization Portfolio Projects
 
-This portfolio highlights a variety of data analysis projects I have completed through academic studies, independent learning, and practical application.
+This portfolio highlights a variety of data analysis projects I have completed through academic studies, independent learning and practical application.
 The projects are designed to showcase my expertise in tools such as Excel, Power BI, Python, and SQL, with deliverables presented in formats like Excel files, interactive dashboards and Jupyter notebooks.
 
 ## List Of Projects
