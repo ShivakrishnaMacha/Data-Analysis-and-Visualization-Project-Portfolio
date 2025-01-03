@@ -16,6 +16,8 @@ The projects are designed to showcase my expertise in tools such as Excel, Power
 
 - **[Election Data Analysis](https://github.com/ShivakrishnaMacha/Election-Data-Analysis)**: Developed an interactive Power BI dashboard to analyze voting patterns and election results across Indian states. Visualized key metrics such as state-wise voter turnout, party-wise vote shares, election wins/losses, and geographical voting trends, providing actionable insights for analysts, policymakers, and the public to understand electoral dynamics and identify trends.
 
+- **[HR Analytics](https://github.com/ShivakrishnaMacha/HR_Analytics)**: Developed an interactive Power BI dashboard to analyze employee attrition and HR metrics across various departments and job roles. Visualized key insights such as department-wise attrition rates, gender-based attrition trends, the impact of salary hikes on employee turnover, and job role-wise attrition patterns. The dashboard enabled HR teams and management to identify critical factors influencing employee retention, providing actionable insights to optimize workforce planning, enhance retention strategies, and improve overall organizational health.
+
 ### Tableau
 - **[Quarterly Census of Employment and Wages Analysis](https://github.com/ShivakrishnaMacha/Tableau-Project/tree/main)**: Conducted an in-depth analysis of employment and wage data from various industries and regions, based on the Quarterly Census of Employment and Wages dataset from the New York State Government's open data portal. The visualization aims to offer valuable insights into industry dynamics, labor market trends, and regional economic performance.
 
