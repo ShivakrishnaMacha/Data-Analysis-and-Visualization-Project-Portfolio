@@ -31,6 +31,9 @@ The projects are designed to showcase my expertise in tools such as Excel, Power
 
 -  **[Zomato Data Analysis](https://github.com/ShivakrishnaMacha/Zomato_SQL_Data_Analysis/tree/main)**: Analyzed Zomato's data to showcase my SQL problem-solving skills. This project involved designing and setting up the database, importing and cleaning the data, managing null values, and resolving real-world business challenges by writing and executing complex SQL queries.
 
+- **[SQL Data Exploration & Analysis](https://github.com/ShivakrishnaMacha/SQL-Queries-for-Data-Insights/tree/main)**: Developed a collection of SQL scripts for database exploration and analysis. This includes schema inspection, dimensional exploration, ranking analysis, trend tracking, and custom reporting.
+
+
 
 
 
