@@ -33,6 +33,9 @@ The projects are designed to showcase my expertise in tools such as Excel, Power
 
 - **[SQL Data Exploration & Analysis](https://github.com/ShivakrishnaMacha/SQL-Queries-for-Data-Insights/tree/main)**: Developed a collection of SQL scripts for database exploration and analysis. This includes schema inspection, dimensional exploration, ranking analysis, trend tracking, and custom reporting.
 
+### Machine Learning/Deep Learning
+- **[Heart Failure Prediction](https://github.com/ShivakrishnaMacha/Heart_Failure_Prediction)**:  Built a machine learning pipeline to predict the 10-year risk of coronary heart disease (CHD) using data from the Framingham Heart Study. Conducted exploratory data analysis, feature engineering (including pulse pressure and log transformations), and handled class imbalance with SMOTE. Evaluated multiple models including Logistic Regression, SVM, Decision Tree, Random Forest, and XGBoost. Achieved a recall score of 0.98 with a tuned XGBoost model, making it effective for early CHD risk screening. Deployed the model using Streamlit for real-time predictions.
+
 
 
 
