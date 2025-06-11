@@ -40,7 +40,7 @@ The projects are designed to showcase my expertise in tools such as Excel, Power
 
 - **[Vendor Performance Analysis](https://github.com/ShivakrishnaMacha/Vendor_Performance_Analysis)**:  Analyzed retail and wholesale data to assess vendor efficiency, pricing strategies, and inventory turnover. Identified underperforming brands, high-margin low-sales products, and over-reliance on top vendors. Uncovered $2.7M in unsold inventory and validated profit margin differences using hypothesis testing. Insights were visualized through an interactive Power BI dashboard, enabling data-driven decisions on pricing, vendor diversification, and stock management.
 
-
+- **[End-to-End Customer Churn Prediction using MLflow, DVC, and Docker](https://github.com/ShivakrishnaMacha/Churn_Prediction_Using_MLflow_DVC)**: Built a production-ready ML pipeline to predict customer churn using MLflow, DVC, and Docker. Automated stages for data ingestion, transformation, model training (LightGBM + Optuna), and evaluation. Deployed a Flask app via Docker and Heroku for real-time predictions. Enabled CI/CD with GitHub Actions, ensuring scalable and reproducible MLOps workflow.
 
 
 
