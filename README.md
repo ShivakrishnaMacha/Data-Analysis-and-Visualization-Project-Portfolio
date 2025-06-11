@@ -33,10 +33,12 @@ The projects are designed to showcase my expertise in tools such as Excel, Power
 
 - **[SQL Data Exploration & Analysis](https://github.com/ShivakrishnaMacha/SQL-Queries-for-Data-Insights/tree/main)**: Developed a collection of SQL scripts for database exploration and analysis. This includes schema inspection, dimensional exploration, ranking analysis, trend tracking, and custom reporting.
 
-### Machine Learning/Deep Learning
+### Data Analysis/Machine Learning/Deep Learning
 - **[Heart Failure Prediction](https://github.com/ShivakrishnaMacha/Heart_Failure_Prediction)**:  Built a machine learning pipeline to predict the 10-year risk of coronary heart disease (CHD) using data from the Framingham Heart Study. Conducted exploratory data analysis, feature engineering (including pulse pressure and log transformations), and handled class imbalance with SMOTE. Evaluated multiple models including Logistic Regression, SVM, Decision Tree, Random Forest, and XGBoost. Achieved a recall score of 0.98 with a tuned XGBoost model, making it effective for early CHD risk screening. Deployed the model using Streamlit for real-time predictions.
 
 - **[Student Performance Prediction](https://github.com/ShivakrishnaMacha/Student_Performance_Prediction)**: Built a machine learning pipeline to analyze and predict student scores using the Students Performance Dataset. Performed EDA, feature engineering, and categorical encoding. Tested models like Linear Regression, Decision Tree, and CatBoost, with CatBoost achieving the best R² score above 0.90.
+
+- **[Vendor Performance Analysis](https://github.com/ShivakrishnaMacha/Vendor_Performance_Analysis)**:  Analyzed retail and wholesale data to assess vendor efficiency, pricing strategies, and inventory turnover. Identified underperforming brands, high-margin low-sales products, and over-reliance on top vendors. Uncovered $2.7M in unsold inventory and validated profit margin differences using hypothesis testing. Insights were visualized through an interactive Power BI dashboard, enabling data-driven decisions on pricing, vendor diversification, and stock management.
 
 
 
