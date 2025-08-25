@@ -1,7 +1,10 @@
-# Data Analysis And Visualization Portfolio Projects
+# End-to-End Data Analytics and Machine Learning Projects
 
-This portfolio highlights a variety of data analysis projects I have completed through academic studies, independent learning and practical application.
-The projects are designed to showcase my expertise in tools such as Excel, Power BI, Python, and SQL, with deliverables presented in formats like Excel files, interactive dashboards and Jupyter notebooks.
+Welcome to my portfolio, showcasing a comprehensive collection of data analysis, visualization, and machine learning projects. These projects reflect a blend of hands-on experience in data engineering, exploratory data analysis, predictive modeling, and production-level deployment. Each project demonstrates my ability to transform raw data into actionable insights and implement robust machine learning solutions across diverse domains.
+
+With over four years of experience in machine learning engineering, I specialize in designing end-to-end pipelines, feature engineering, model optimization, and scalable deployment. This portfolio highlights proficiency across Python, SQL, Power BI, Tableau, and advanced ML frameworks including scikit-learn, XGBoost, LightGBM, and CatBoost, coupled with best practices in MLOps using tools such as MLflow, DVC, Docker, and cloud deployment platforms.
+
+The projects encompass everything from interactive dashboards and complex SQL analysis to predictive modeling and deep learning applications. Deliverables include interactive Power BI and Tableau dashboards, SQL queries, Jupyter notebooks, and fully deployed machine learning applications, demonstrating my ability to bridge analytics, engineering, and business strategy to drive data-informed decision-making.
 
 ## List Of Projects
 
